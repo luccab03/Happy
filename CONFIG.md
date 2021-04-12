@@ -11,6 +11,7 @@
 5. Pronto!
 
 Para iniciar o mobile e o web o comando é o `npm start` ou `yarn start`
+
 Já o backend é `npm dev` ou `yarn dev`
 
 #
@@ -27,4 +28,5 @@ Já o backend é `npm dev` ou `yarn dev`
 5. Ready!
 
 To start the mobile or the web platform, use `npm start` or `yarn start`
+
 To start the back-end server, use `npm dev` or `yarn dev`
