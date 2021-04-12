@@ -1,5 +1,6 @@
-# Next-Level-Week-3
-## Workshop de desenvolvimento da Rocketseat de outubro de 2020 / 3a edição do Next Level Week
+# Happy: App de doações!
 
 ### Aplicação Web e Mobile que ajuda pessoas dispostas a doar seu tempo a encontrar orfanatos na região de Porto Alegre!
-[Configuração](https://github.com/luccab03/Next-Level-Week-3/blob/master/CONFIG.md)
+### Desenvolvido no workshop Next Level Week da Rocketseat em Outubro de 2020
+
+Para configurar o projeto, siga [estas](https://github.com/luccab03/Next-Level-Week-3/blob/master/CONFIG.md) instuções.
